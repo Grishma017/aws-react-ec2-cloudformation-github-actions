@@ -1,17 +1,27 @@
 {
   "name": "Grishma",
-  "tagline": "DevOps & Cloud Engineer in the making ",
+  "tagline": "Senior Data Scientist",
   "photo": "profile.png",
-  "roll": "4447",
-  "department": "Computer Engineering",
+  "roll": "01",
+  "department": "Data Science",
   "year": "2020",
-  "email": "bhattsameer4447@gmail.com",
+  "email": "17karkigrishma@gmail.com",
   "gpa": "4.00",
-  "about": "I automate things so I don't have to do them twice, then spend three hours debugging the automation. My pipelines are green, my coffee is strong, and \"it works on my machine\" is no longer an excuse, because I put my machine in a Docker container.",
-  "skills": ["Linux", "Git", "GitHub Actions", "Docker", "Jenkins", "AWS", "CloudFormation", "Nginx", "React"],
+  "about": "I am a passionate and dedicated Senior Data Scientist with a strong background in data analysis, machine learning, and statistical modeling. I have a proven track record of delivering actionable insights and driving business decisions through data-driven approaches. My expertise lies in leveraging advanced analytics techniques to solve complex problems and optimize processes. I am committed to continuous learning and staying updated with the latest trends in the field of data science.",
+  "skills": [
+    "Python",
+    "R",
+    "SQL",
+    "Machine Learning",
+    "Deep Learning",
+    "Data Visualization",
+    "Statistical Analysis",
+    "Big Data Technologies",
+    "Natural Language Processing",
+    "Time Series Analysis"
+  ],
   "links": {
-    "github": "https://github.com/Sammy4447",
-    "linkedin": "www.linkedin.com/in/er-sameer-bhatt-905562232"
+    "github": "https://github.com/Grishma017"
   },
   "quotes": [
     "Stay hungry, stay foolish.",
